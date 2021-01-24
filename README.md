@@ -1,8 +1,5 @@
-# othello-prolog
-Othello AI Game using MinMax Search Algorithm
-
 # Othello Prolog
-
+Othello AI Game using MinMax Search Algorithm
 > A fully functional [Othello game](https://en.wikipedia.org/wiki/Reversi), with several AIs, made for the [swi prolog interpreter](http://www.swi-prolog.org/)
 
 <p align="center">
